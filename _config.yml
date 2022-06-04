@@ -16,11 +16,11 @@
 title: "정희의 기록용 블로그"
 email: 'bjhsh12@gmail.com'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://backjunghee.github.io/" # the subpath of your site, e.g. /blog
 url: "https://backjunghee.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'BackJunghee'
-medium_username: 'blog.jamigibbs.com'
+#medium_username: 'blog.jamigibbs.com'
 
 # Build settings
 markdown: kramdown
